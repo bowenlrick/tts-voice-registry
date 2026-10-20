@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[English](README.md) | [简体中文]([README_zh-CN.md](https://raw.githubusercontent.com/bowenlrick/voice-model-registry/refs/heads/main/README_zh.md))
+[English](README.md) | [简体中文](https://raw.githubusercontent.com/bowenlrick/voice-model-registry/refs/heads/main/README_zh.md)
 
 一个面向社区音色模型的开放注册库，提供标准化的元数据、来源信息、兼容性信息和许可信息。
 
