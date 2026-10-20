@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[English](README.md) | [简体中文](README_zh-CN.md)
+[English](README.md) | [简体中文](https://github.com/bowenlrick/voice-model-registry/blob/main/README_zh.md)
 
 An open registry for community voice models with standardized metadata, provenance, compatibility, and licensing information.
 
