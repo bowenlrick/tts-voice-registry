@@ -1,5 +1,9 @@
 # Voice Model Registry
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+[English](README.md) | [简体中文](README_zh-CN.md)
+
 一个面向社区音色模型的开放注册库，提供标准化的元数据、来源信息、兼容性信息和许可信息。
 
 > **状态：** 早期开发阶段  
